@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+.env
+
+data/
+*.pdf
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+# Ignore data/books
+data/
+*.pdf
+
